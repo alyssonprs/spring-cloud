@@ -8,5 +8,5 @@ spring:
         encrypt:
             enabled: false
         git:
-          uri: https://github.com/arthur-alura/microservice-repo/
+          uri: https://github.com/alyssonprs/spring-cloud/config-server
           search-paths: fornecedor, loja, transportador
